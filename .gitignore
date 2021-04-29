@@ -3,3 +3,4 @@
 example-pi*
 *.uimg
 *.o
+/build/
